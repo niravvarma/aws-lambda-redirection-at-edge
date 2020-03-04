@@ -37,3 +37,6 @@ This would build the project and copy the assets into S3 bucket for deployment.Y
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+-----------------------------------
+Recently, tried to use this solution but does not work with old NodeJS version - Changed nodejs version to 10.x in the generated template.yml file and then it worked.
